@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/Frame%2014.svg"/>
+    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
 </p>
 
 
