@@ -1,6 +1,6 @@
 <p align="center">
   <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mijick/Assets/blob/main/Popups/GitHub.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fd37ba33-5743-4380-a212-13e757916f07">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Light.svg">
     <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"" width="100%">
   </picture>
