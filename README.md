@@ -12,9 +12,9 @@
 
 
 
-  <ul style="list-style: none;" align="center">
+  <ul align="center">
     <summary>
-      <h2 align="center"><b>Popups presentation made simple</b></h2>
+      <h2 align="center">Popups presentation made simple</h2>
       <br>
       Create beautiful and fully customisable popups in no time. Keep your code clean
     </summary>
@@ -24,11 +24,6 @@
 
 
 
-
-
-<p align="center">
-    
-</p>
 
 <p align="center">
     <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
