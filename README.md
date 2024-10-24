@@ -4,14 +4,10 @@
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mijick/Assets/blob/main/Popups/GitHub.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Light.svg">
-    <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"">
+    <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"" width="100%">
   </picture>
-</p>
 
-
-
-
-<div id="toc">
+  <div id="toc">
   <ul align="center">
     <summary>
       <h2 align="center">Popups presentation made simple</h2>
@@ -20,6 +16,12 @@
     </summary>
   </ul>
 </div>
+</p>
+
+
+
+
+
 
 
 
