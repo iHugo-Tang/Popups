@@ -15,8 +15,11 @@
   <ul style="list-style: none;" align="center">
     <summary>
       <h2 align="center"><b>Popups presentation made simple</b></h2>
+      <br>
+      Create beautiful and fully customisable popups in no time. Keep your code clean
     </summary>
   </ul>
+  
 </p>
 
 
@@ -24,7 +27,7 @@
 
 
 <p align="center">
-    Create beautiful and fully customisable popups in no time. Keep your code clean
+    
 </p>
 
 <p align="center">
