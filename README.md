@@ -12,13 +12,11 @@
 
 
 <p align="center">
-<div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;" align="center">
     <summary>
       <h2 align="center"><b>Popups presentation made simple</b></h2>
     </summary>
   </ul>
-</div>
 </p>
 
 
