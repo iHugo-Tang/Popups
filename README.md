@@ -11,7 +11,7 @@
 
 
 
-<p align="center">
+
   <ul style="list-style: none;" align="center">
     <summary>
       <h2 align="center"><b>Popups presentation made simple</b></h2>
@@ -20,7 +20,7 @@
     </summary>
   </ul>
   
-</p>
+
 
 
 
