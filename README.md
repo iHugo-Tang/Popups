@@ -5,16 +5,11 @@
     <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"" width="100%">
   </picture>
 
-  <div id="toc">
-  <ul align="center">
-    <summary>
-      <h2 align="center">Popups presentation made simple</h2>
-      <br>
-      Create beautiful and fully customisable popups in no time. Keep your code clean
-    </summary>
-  </ul>
-</div>
-</p>
+  <h3 align="center">
+  Popups presentation made simple
+  </h3>
+
+<p align="center">Create beautiful and fully customisable popups in no time. Keep your code clean</p>
 
 
 <p align="center">
