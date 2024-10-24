@@ -10,7 +10,7 @@ Use menubar extra sliders or the keyboard, including native Apple keys!</p>
 
 <p align="center">
   <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7ef5b89b-418d-4f3c-b044-641c3c828aeb">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4553bb28-9d74-4b47-ba7e-c6aeec7753e5">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Light.svg">
     <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"" width="100%">
   </picture>
@@ -36,8 +36,6 @@ Use menubar extra sliders or the keyboard, including native Apple keys!</p>
 <p align="center">
     <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
 </p>
-
-
 
 
 
