@@ -8,9 +8,7 @@
   </picture>
 </p>
 
-<p align="center">
-    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
-</p>
+
 
 
 <p align="center">
@@ -25,9 +23,17 @@
 
 
 
+
+
 <p align="center">
     Create beautiful and fully customisable popups in no time. Keep your code clean
 </p>
+
+<p align="center">
+    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
+</p>
+
+
 
 <p align="center">
     <a href="https://github.com/Mijick/Popups-Demo" rel="nofollow">Try demo we prepared</a>
