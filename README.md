@@ -11,7 +11,7 @@
 
 
 
-
+<div id="toc">
   <ul align="center">
     <summary>
       <h2 align="center">Popups presentation made simple</h2>
@@ -19,7 +19,7 @@
       Create beautiful and fully customisable popups in no time. Keep your code clean
     </summary>
   </ul>
-  
+</div>
 
 
 
