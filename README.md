@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mijick/Assets/blob/main/Popups/GitHub.svg">
@@ -28,6 +26,7 @@
 </p>
 
 
+<br>
 
 <p align="center">
     <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
@@ -37,27 +36,7 @@
 
 
 
-<br>
 
-<p align="center">
-    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Language.svg"/>
-    <img alt="Platforms: iOS, iPadOS, macOS, tvOS" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Platforms.svg"/>
-    <img alt="Current Version" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Version.svg"/>
-    <img alt="License: Apache 2.0" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/License.svg"/>
-</p>
-
-<p align="center">
-    <img alt="Made in Kraków" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Origin.svg"/>
-    <a href="https://twitter.com/_Mijick">
-        <img alt="Follow us on X" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/X.svg"/>
-    </a>
-    <a href="https://discord.com/invite/dT5V7nm5SC">
-        <img alt="Join our community" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Discord.svg"/>
-    </a>  
-    <a href="https://github.com/Mijick/PopupView/stargazers">
-        <img alt="Stargazers" src="https://github.com/Mijick/Assets/blob/main/PopupView/Labels/Stars.svg"/>
-    </a>                                                                                                               
-</p>
 
 <p align="center">
     <img alt="Popup Examples" src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" width="30%"/>
