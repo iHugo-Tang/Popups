@@ -22,9 +22,9 @@
 <p align="center">
     <a href="https://github.com/Mijick/Popups-Demo" rel="nofollow">Try demo we prepared</a>
     |
-    <a href="https://mijick.notion.site/c95fe641ff684561a4523b9570113516?v=46960f9a652147d4a12fc9dd36cbd4fc" rel="nofollow">Roadmap</a>
+    <a href="https://mijick.notion.site/c95fe641ff684561a4523b9570113516?v=46960f9a652147d4a12fc9dd36cbd4fc" rel="nofollow">Wiki</a>
     |
-    <a href="https://github.com/Mijick/Popups/issues/new" rel="nofollow">Propose a new feature</a>
+    <a href="https://github.com/Mijick/Popups/issues/new" rel="nofollow">Roadmap</a>
 </p>
 
 
