@@ -8,6 +8,11 @@
   </picture>
 </p>
 
+<p align="center">
+    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/Frame%2014.svg"/>
+</p>
+
+
 <h3 style="font-size: 5em" align="center">
     Popups presentation made simple
 </h3>
