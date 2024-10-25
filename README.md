@@ -25,7 +25,18 @@
 
 <p align="center">
     <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
+
+
+  
 </p>
+
+<br>
+
+<p align="center">
+<img align="center" alt="SwiftUI logo" src="https://github.com/user-attachments/assets/7fa44813-13f5-4488-80d0-7a5b85262a11"/>
+</p>
+
+<br>
 
 <table>
     <thead>
