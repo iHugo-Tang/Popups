@@ -27,29 +27,29 @@
     <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
 </p>
 
-<br>
-
-# What can you achieve with the framework
-<img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" width="30%" alt="App icon" align="left"/>
-
-<div>
-<h3>Improves code quality</h3>
-<p>Controls your external display brightness and volume and shows native OSD.
-Use menubar extra sliders or the keyboard, including native Apple keys!</p>
-</div>
-
-<br/><br/>
-
-<img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" width="30%" alt="App icon" align="right"/>
-
-<div>
-<h3>Improves code quality</h3>
-<p>Controls your external display brightness and volume and shows native OSD.
-Use menubar extra sliders or the keyboard, including native Apple keys!</p>
-</div>
-
-<br><br>
-
-<br>
-
-<br>
+<table>
+    <thead>
+        <tr>
+            <th>X1</th>
+            <th>X2</th>
+            <th>X3</th>
+            <th>X4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+            </td>
+        </tr>
+    </tbody>
+</table>
