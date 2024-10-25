@@ -1,13 +1,3 @@
-<img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" width="30%" alt="App icon" align="left"/>
-
-<div>
-<h3>MijickPopups - now compatible with macOS Sequoia</h3>
-<p>Controls your external display brightness and volume and shows native OSD.
-Use menubar extra sliders or the keyboard, including native Apple keys!</p>
-</div>
-
-<br/><br/>
-
 <p align="center">
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4553bb28-9d74-4b47-ba7e-c6aeec7753e5">
