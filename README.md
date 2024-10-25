@@ -39,16 +39,16 @@
     <tbody>
         <tr>
             <td>
-                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+                <img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" />
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+                <img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" />
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+                <img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" />
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/03050538-a123-4f3e-ad2a-d62a6475ecaa" />
+                <img src="https://github.com/Mijick/Assets/blob/main/PopupView/GIFs/PopupView-Bottom.gif" />
             </td>
         </tr>
     </tbody>
