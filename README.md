@@ -33,19 +33,19 @@
 <!--Buttons-->
 <ul align="center">
     <!--Discord-->
-    <a href="https://github.com/Mijick/Popups-Defmo" rel="nofollow">
+    <a href="https://discord.com/invite/dT5V7nm5SC">
         <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.svg">
     </a>
     <!--GitHub-->
-    <a href="https://github.com/Mijick/Popups-aDemo" rel="nofollow">
+    <a href="https://github.com/Mijick" rel="nofollow">
         <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.svg">
     </a>
     <!--Medium-->
-    <a href="https://github.com/Mijick/Popups-Deemo" rel="nofollow">
+    <a href="https://medium.com/@mijick" rel="nofollow">
         <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.svg">
     </a>
     <!--Buymeacoffee-->
-    <a href="https://github.com/Mijick/Popups-Demor" rel="nofollow">
+    <a href="https://buymeacoffee.com/mijick" rel="nofollow">
         <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.svg">
     </a>
 </ul>
