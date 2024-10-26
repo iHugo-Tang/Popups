@@ -22,32 +22,12 @@
     <a href="https://cottony-licorice-ab9.notion.site/Popups-11b6ea2aa843809194dbfe0395575efb?pvs=25" rel="nofollow"><b>Roadmap</b></a>
 </p>
 
+<br>
+
 <!--Labels-->
 <p align="center">
     <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
 </p>
-
-<br>
-
-<!--Buttons-->
-<ul align="center">
-    <!--Discord-->
-    <a href="https://discord.com/invite/dT5V7nm5SC">
-        <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.svg">
-    </a>
-    <!--GitHub-->
-    <a href="https://github.com/Mijick">
-        <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.svg">
-    </a>
-    <!--Medium-->
-    <a href="https://medium.com/@mijick">
-        <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.svg">
-    </a>
-    <!--Buymeacoffee-->
-    <a href="https://buymeacoffee.com/mijick">
-        <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.svg">
-    </a>
-</ul>
 
 <br>
 
@@ -80,6 +60,28 @@
 </table>
 
 <br><br>
+
+<!--Buttons-->
+<p>
+    <!--Discord-->
+    <a href="https://discord.com/invite/dT5V7nm5SC">
+        <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.svg">
+    </a>
+    <!--GitHub-->
+    <a href="https://github.com/Mijick">
+        <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.svg">
+    </a>
+    <!--Medium-->
+    <a href="https://medium.com/@mijick">
+        <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.svg">
+    </a>
+    <!--Buymeacoffee-->
+    <a href="https://buymeacoffee.com/mijick">
+        <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.svg">
+    </a>
+</p>
+
+
 # What is it able to do?
 MijickPopups is a free and open-source library dedicated for SwiftUI that makes the process of presenting popups easier and much cleaner.
 * **Improves code quality.** Show your popup using the `present()` method.<br/>
