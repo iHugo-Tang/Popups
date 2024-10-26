@@ -1,4 +1,3 @@
-
 <!--Hero Image-->
 <p align="center">
     <picture> 
@@ -7,10 +6,12 @@
 </p>
 
 <!--Text Header-->
-<ul align="center" style="list-style: none;">
-    <summary><h1>Popup presentation made simple</h1></summary>
-    <p>Create any popup in no time. Keep your code clean.</p>
-</ul>
+<div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+        <summary><h1>Popup presentation made simple</h1></summary>
+        <p>Create any popup in no time. Keep your code clean.</p>
+    </ul>
+</div>
 
 <!--LINKS: Demo, Wiki, Roadmap-->
 <p align="center">
@@ -35,15 +36,15 @@
         <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.svg">
     </a>
     <!--GitHub-->
-    <a href="https://github.com/Mijick" rel="nofollow">
+    <a href="https://github.com/Mijick">
         <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.svg">
     </a>
     <!--Medium-->
-    <a href="https://medium.com/@mijick" rel="nofollow">
+    <a href="https://medium.com/@mijick">
         <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.svg">
     </a>
     <!--Buymeacoffee-->
-    <a href="https://buymeacoffee.com/mijick" rel="nofollow">
+    <a href="https://buymeacoffee.com/mijick">
         <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.svg">
     </a>
 </ul>
