@@ -52,6 +52,7 @@
 
 <br>
 
+<!--GIFs-->
 <table>
     <thead>
         <tr>
