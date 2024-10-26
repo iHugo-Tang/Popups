@@ -23,15 +23,13 @@
     <a href="https://cottony-licorice-ab9.notion.site/Popups-11b6ea2aa843809194dbfe0395575efb?pvs=25" rel="nofollow"><b>Roadmap</b></a>
 </p>
 
-
-<br>
-
+<!--Labels-->
 <p align="center">
-    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
-
-
-  
+    <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
 </p>
+
+
+
 
 <br>
 
