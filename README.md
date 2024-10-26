@@ -6,8 +6,6 @@
     </picture>
 </p>
 
-<br>
-
 <!--Text Header-->
 <ul align="center" style="list-style: none;">
     <summary><h1>Popup presentation made simple</h1></summary>
