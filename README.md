@@ -1,9 +1,9 @@
+<!--Hero Image-->
 <p align="center">
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mijick/Assets/blob/main/Popups/Hero.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Light.svg">
-    <img alt="PopupView Logo" src="https://github.com/Mijick/Assets/blob/main/PopupView/Logotype/On%20Dark.svg"" width="100%">
-  </picture>
+    <picture> 
+        <img alt="MijickPopups Hero" src="https://github.com/Mijick/Assets/blob/main/Popups/hero.svg" width="100%">
+    </picture>
+</p>
 
   <h3 align="center">
   Popups presentation made simple
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels/info.svg"/>
+    <img alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
 
 
   
