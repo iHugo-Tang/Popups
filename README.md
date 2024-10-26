@@ -66,9 +66,18 @@
 </table>
 
 <br><br>
-# What is it?
+# What is it able to do?
 MijickPopups is a free and open-source library dedicated for SwiftUI that makes the process of presenting popups easier and much cleaner.
 * **Improves code quality.** Show your popup using the `present()` method.<br/>
     Hide with `dismissLastPopup()`. Simple as never.
 * **Create any popup.** We know how important customisation is; that's why we give you the opportunity to design your popup in any way you like.
 * **Designed for SwiftUI.** While developing the library, we have used the power of SwiftUI to give you powerful tool to speed up your implementation process.
+
+# Where is it used?
+Bla bla bla
+
+# How to use it?
+See our wiki
+
+
+
