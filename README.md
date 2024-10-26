@@ -28,14 +28,27 @@
     <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
 </p>
 
-
-
-
 <br>
 
-<p align="center">
-<img align="center" alt="SwiftUI logo" src="https://github.com/Mijick/Assets/blob/main/Popups/buttons.svg"/>
-</p>
+<!--Buttons-->
+<ul align="center">
+    <!--Discord-->
+    <a href="https://github.com/Mijick/Popups-Defmo" rel="nofollow">
+        <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.svg">
+    </a>
+    <!--GitHub-->
+    <a href="https://github.com/Mijick/Popups-aDemo" rel="nofollow">
+        <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.svg">
+    </a>
+    <!--Medium-->
+    <a href="https://github.com/Mijick/Popups-Deemo" rel="nofollow">
+        <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.svg">
+    </a>
+    <!--Buymeacoffee-->
+    <a href="https://github.com/Mijick/Popups-Demor" rel="nofollow">
+        <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.svg">
+    </a>
+</ul>
 
 <br>
 
