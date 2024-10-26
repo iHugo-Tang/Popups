@@ -1,3 +1,4 @@
+
 <!--Hero Image-->
 <p align="center">
     <picture> 
@@ -5,11 +6,15 @@
     </picture>
 </p>
 
-  <h3 align="center">
-  Popups presentation made simple
-  </h3>
+<br>
 
-<p align="center">Create beautiful and fully customisable popups in no time. Keep your code clean</p>
+<!--Text Header-->
+<ul align="center" style="list-style: none;">
+    <summary><h1>Popups presentation made simple</h1></summary>
+    <p>Create beautiful and fully customisable popups in no time. Keep your code clean</p>
+</ul>
+
+
 
 
 <p align="center">
