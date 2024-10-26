@@ -14,15 +14,13 @@
     <p>Create any popup in no time. Keep your code clean.</p>
 </ul>
 
-
-
-
+<!--LINKS: Demo, Wiki, Roadmap-->
 <p align="center">
     <a href="https://github.com/Mijick/Popups-Demo" rel="nofollow"><b>Try demo we prepared</b></a>
     |
-    <a href="https://mijick.notion.site/c95fe641ff684561a4523b9570113516?v=46960f9a652147d4a12fc9dd36cbd4fc" rel="nofollow">Wiki</a>
+    <a href="https://github.com/Mijick/Popups/wiki" rel="nofollow"><b>Framework documentation</b></a>
     |
-    <a href="https://github.com/Mijick/Popups/issues/new" rel="nofollow">Roadmap</a>
+    <a href="https://cottony-licorice-ab9.notion.site/Popups-11b6ea2aa843809194dbfe0395575efb?pvs=25" rel="nofollow"><b>Roadmap</b></a>
 </p>
 
 
