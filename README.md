@@ -10,8 +10,8 @@
 
 <!--Text Header-->
 <ul align="center" style="list-style: none;">
-    <summary><h1>Popups presentation made simple</h1></summary>
-    <p>Create beautiful and fully customisable popups in no time. Keep your code clean</p>
+    <summary><h1>Popup presentation made simple</h1></summary>
+    <p>Create any popup in no time. Keep your code clean.</p>
 </ul>
 
 
