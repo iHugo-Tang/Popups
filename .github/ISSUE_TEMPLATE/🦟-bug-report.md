@@ -1,24 +1,21 @@
 ---
-name: Bug Report
-about: Create a report to help us improve the framework
+name: "\U0001F99F Bug Report"
+about: If something isn't working
 title: "[BUG]"
 labels: 'state: inactive, type: bug'
 assignees: FulcrumOne, jay-jay-lama
 
 ---
 
-# Prerequisites
-- [ ] I am running the latest version
+## Prerequisites
 - [ ] I checked the [documentation](https://github.com/Mijick/Popups/wiki) and found no answer
 - [ ] I checked to make sure that this issue has not already been filed
 
-# Expected Behavior
+## Expected Behavior
 Please describe the behavior you are expecting
 
-# Current Behavior
+## Current Behavior
 What is the current behavior?
-
-<br><br>
 
 ## Steps to Reproduce
 Please provide detailed steps for reproducing the issue.
@@ -27,15 +24,18 @@ Please provide detailed steps for reproducing the issue.
 3. Scroll down to '....'
 4. See error
 
-## Context
-Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
-
- - SDK version: [e.g. 3.0.0]
- - Operating System: [e.g. iOS 18.0]
- - Device Model [e.g. iPhone 14 Pro]
+## Code Sample
+If you can, please include a code sample that we can use to debug the bug.
 
 ## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-## Code Sample
-If you can, please include a code sample that we can use to debug the bug.
+## Context
+Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
+
+| Name | Version |
+| ------| ---------|
+| SDK | e.g. 3.0.0 |
+| Xcode | e.g. 14.0 |
+| Operating System | e.g. iOS 18.0 |
+| Device | e.g. iPhone 14 Pro |
