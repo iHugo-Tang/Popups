@@ -7,25 +7,35 @@ assignees: FulcrumOne, jay-jay-lama
 
 ---
 
-### Describe the bug
-A clear and concise description of what the bug is.
+# Prerequisites
+- [ ] I am running the latest version
+- [ ] I checked the [documentation](https://github.com/Mijick/Popups/wiki) and found no answer
+- [ ] I checked to make sure that this issue has not already been filed
 
-### To Reproduce
-Steps to reproduce the behavior:
+# Expected Behavior
+Please describe the behavior you are expecting
+
+# Current Behavior
+What is the current behavior?
+
+<br><br>
+
+## Steps to Reproduce
+Please provide detailed steps for reproducing the issue.
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-### Expected behavior
-A clear and concise description of what you expected to happen.
+## Context
+Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
 
-### Screenshots
+ - SDK version: [e.g. 3.0.0]
+ - Operating System: [e.g. iOS 18.0]
+ - Device Model [e.g. iPhone 14 Pro]
+
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-### Device (please complete the following information):
- - OS: [iOS 18.0 / macOS Sequoia / watchOS 11.0 / tvOS 18.0 / visionOS 1.0]
- - Model [e.g. iPhone 14 Pro]
-
-### Additional context
-Add any other context about the problem here.
+## Code Sample
+If you can, please include a code sample that we can use to debug the bug.
