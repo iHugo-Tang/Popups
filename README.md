@@ -122,6 +122,16 @@ MijickPopups solves two seemingly contradictory problems - to allow developers t
 </p>
 
 
+### There is much more besides:
+- The height of the popup adapts to its content, or can be defined by you.
+- Popups can be automatically dismissed after a certain period of time.
+- Drag gesture can be used to resize the popup, according to the provided indentations.
+- Works with multiple windows.
+- Supports all Apple platforms.
+- ... and much more.
+
+
+
 <!--Documentation-->
 # How to use it?
 See our wiki
