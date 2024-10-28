@@ -59,7 +59,7 @@
     </tbody>
 </table>
 
-<br><br>
+<br><br><br>
 
 <!--Buttons-->
 <p>
@@ -82,7 +82,7 @@
 </p>
 
 <!--Description-->
-# Why MijickPopups?
+# ☀️ Why MijickPopups?
 MijickPopups solves two seemingly contradictory problems - to allow developers to create fully customizable popup, and to make the process as simple as possible. Here is why we think we have successfully met these objectives:
 
 <p>
@@ -105,19 +105,19 @@ MijickPopups solves two seemingly contradictory problems - to allow developers t
 
 <p>
     <h3>Three in one</h3>
-    <p>You can display popups created with our library in one of three positions on the screen: at the bottom, in the center, or at the top. This allows you to create the most common objects, including popups, popovers, alerts, notifications, and more.</p>
+    <p>You can display popups created with our framework in one of three positions on the screen: at the bottom, in the center, or at the top. This allows you to create the most common objects, including popups, popovers, alerts, notifications, and more.</p>
     <img alt="Code Example 4" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/any-position.svg" width="100%">
 </p>
 
 <p>
     <h3>Multiple popups? No problem!</h3>
-    <p>Whether you want to present multiple notifications to the user, or show terms and conditions before they log in, the library makes it possible - it allows you to keep as many popups on the screen as you want. Inactive popups are stacked in a visually appealing way.</p>
+    <p>Whether you want to present multiple notifications to the user, or show terms and conditions before they log in, the framework makes it possible - it allows you to keep as many popups on the screen as you want. Inactive popups are stacked in a visually appealing way.</p>
     <img alt="Code Example 5" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/stacking.svg" width="100%">
 </p>
 
 <p>
     <h3>Past, present and future</h3>
-    <p>We decided to reach out to developers who, for various reasons, want to use native sheets and alerts alongside our library. From now on, this is possible, and in the near future, we will also add the ability to call sheets in a native style, allowing you to integrate our library into your existing projects as well.</p>
+    <p>We decided to reach out to developers who, for various reasons, want to use native sheets and alerts alongside our framework. From now on, this is possible, and in the near future, we will also add the ability to call sheets in a native style, allowing you to integrate our framework into your existing projects as well.</p>
     <img alt="Code Example 6" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/native-with-framework.svg" width="100%">
 </p>
 
@@ -131,15 +131,15 @@ MijickPopups solves two seemingly contradictory problems - to allow developers t
 - ... and much more.
 
 <!--Documentation-->
-# How to use it?
+# 🚀 How to use it?
 Visit the framework's [documentation page](https://github.com/Mijick/Popups/wiki) to learn how to integrate your project with **MijickPopups**.
 
 <!--Community-->
-# Community
+# 🍀 Community
 Join the welcoming community of developers on [Discord](https://discord.com/invite/dT5V7nm5SC).
 
 <!--Contribution-->
-# Contribute
+# 🌼 Contribute
 To contribute a feature or idea to MijickPopups, create an [issue](https://github.com/Mijick/Popups/issues/new?assignees=FulcrumOne&labels=state%3A+inactive%2C+type%3A+feature&projects=&template=🚀-feature-request.md&title=%5BFREQ%5D) explaining your idea or bring it up on [Discord](https://discord.com/invite/dT5V7nm5SC).
 
 If you find a bug, please create an [issue](https://github.com/Mijick/Popups/issues/new?assignees=FulcrumOne%2C+jay-jay-lama&labels=state%3A+inactive%2C+type%3A+bug&projects=&template=🦟-bug-report.md&title=%5BBUG%5D).
@@ -147,5 +147,5 @@ If you find a bug, please create an [issue](https://github.com/Mijick/Popups/iss
 If you would like to contribute, please refer to the [contribution guidelines](https://github.com/Mijick/Popups/blob/main/.github/CONTRIBUTING.md).
 
 <!--Sponsorship-->
-# Sponsor framework
-Support our frameworks by [becoming a backer](https://buymeacoffee.com/mijick).
+# 💜 Sponsor our work
+Support our work by [becoming a backer](https://buymeacoffee.com/mijick).
