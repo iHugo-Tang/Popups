@@ -134,9 +134,17 @@ MijickPopups solves two seemingly contradictory problems - to allow developers t
 # How to use it?
 Visit the framework's [documentation page](https://github.com/Mijick/Popups/wiki) to learn how to integrate your project with **MijickPopups**.
 
+<!--Community-->
+# Community
+Join the welcoming community of developers on [Discord](https://discord.com/invite/dT5V7nm5SC).
+
 <!--Contribution-->
 # Contribute
-Bla bla bla
+To contribute a feature or idea to MijickPopups, create an [issue](https://github.com/Mijick/Popups/issues/new?assignees=FulcrumOne&labels=state%3A+inactive%2C+type%3A+feature&projects=&template=🚀-feature-request.md&title=%5BFREQ%5D) explaining your idea or bring it up on [Discord](https://discord.com/invite/dT5V7nm5SC).
+
+If you find a bug, please create an [issue](https://github.com/Mijick/Popups/issues/new?assignees=FulcrumOne%2C+jay-jay-lama&labels=state%3A+inactive%2C+type%3A+bug&projects=&template=🦟-bug-report.md&title=%5BBUG%5D).
+
+If you would like to contribute, please refer to the [Contribution Guidelines](https://github.com/Mijick/Popups/blob/main/.github/CONTRIBUTING.md).
 
 <!--Sponsorship-->
 # Sponsor framework
