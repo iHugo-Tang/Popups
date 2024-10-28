@@ -130,11 +130,9 @@ MijickPopups solves two seemingly contradictory problems - to allow developers t
 - Supports all Apple platforms.
 - ... and much more.
 
-
-
 <!--Documentation-->
 # How to use it?
-See our wiki
+Visit the framework's [documentation page](https://github.com/Mijick/Popups/wiki) to learn how to integrate your project with **MijickPopups**.
 
 <!--Contribution-->
 # Contribute
