@@ -8,12 +8,12 @@
 <!--Text Header-->
 <div id="user-content-toc">
     <ul align="center" style="list-style: none;">
-        <summary><h1>Popup presentation made simple</h1></summary>
+        <summary><h1>Popups presentation made simple</h1></summary>
         <p>Create any popup in no time. Keep your code clean.</p>
     </ul>
 </div>
 
-<!--LINKS: Demo, Wiki, Roadmap-->
+<!--Links: Demo, Wiki, Roadmap-->
 <p align="center">
     <a href="https://github.com/Mijick/Popups-Demo" rel="nofollow"><b>Try demo we prepared</b></a>
     |
@@ -81,24 +81,55 @@
     </a>
 </p>
 
+<!--Description-->
+# Why MijickPopups?
+MijickPopups solves two seemingly contradictory problems - to allow developers to create fully customizable popup, and to make the process as simple as possible. Here is why we think we have successfully met these objectives:
 
-# What is it able to do?
-MijickPopups is a free and open-source library dedicated for SwiftUI that makes the process of presenting popups easier and much cleaner.
-* **Improves code quality.** Show your popup using the `present()` method.<br/>
-    Hide with `dismissLastPopup()`. Simple as never.
-  <img alt="MijickPopups Hero" src="https://github.com/Mijick/Assets/blob/main/Popups/Frame%2016.svg" width="100%">
- 
+<p>
+    <h3>The power of a single line of code</h3>
+    <p>For your convenience and to enhance code clarity, we have consolidated all the key actions into a single line of code.</p>
+    <img alt="Code Example 1" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/less-code.svg" width="100%">
+</p>
 
-* **Create any popup.** We know how important customisation is; that's why we give you the opportunity to design your popup in any way you like.
-* **Designed for SwiftUI.** While developing the library, we have used the power of SwiftUI to give you powerful tool to speed up your implementation process.
+<p>
+    <h3>Tailored to your needs. Designed to suit your preferences</h3>
+    <p>Developers have various programming styles, and we understand and respect that. Therefore, our framework is engineered in such a way that you can open or close a popup from anywhere in your code.</p>
+    <img alt="Code Example 2" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/interact-anywhere.svg" width="100%">
+</p>
 
+<p>
+    <h3>Engineered for limitless creativity</h3>
+    <p>The framework was developed not to limit your creativity; we give you the freedom to experiment with the appearance of your popups.</p>
+    <img alt="Code Example 3" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/customization.svg" width="100%">
+</p>
+
+<p>
+    <h3>Three in one</h3>
+    <p>You can display popups created with our library in one of three positions on the screen: at the bottom, in the center, or at the top. This allows you to create the most common objects, including popups, popovers, alerts, notifications, and more.</p>
+    <img alt="Code Example 4" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/any-position.svg" width="100%">
+</p>
+
+<p>
+    <h3>Multiple popups? No problem!</h3>
+    <p>Whether you want to present multiple notifications to the user, or show terms and conditions before they log in, the library makes it possible - it allows you to keep as many popups on the screen as you want. Inactive popups are stacked in a visually appealing way.</p>
+    <img alt="Code Example 5" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/stacking.svg" width="100%">
+</p>
+
+<p>
+    <h3>Past, present and future</h3>
+    <p>We decided to reach out to developers who, for various reasons, want to use native sheets and alerts alongside our library. From now on, this is possible, and in the near future, we will also add the ability to call sheets in a native style, allowing you to integrate our library into your existing projects as well.</p>
+    <img alt="Code Example 6" src="https://github.com/Mijick/Assets/blob/main/Popups/Code/native-with-framework.svg" width="100%">
+</p>
+
+
+<!--Documentation-->
 # How to use it?
 See our wiki
 
+<!--Contribution-->
 # Contribute
 Bla bla bla
 
+<!--Sponsorship-->
 # Sponsor framework
 Bla bla bla
-
-
