@@ -144,8 +144,8 @@ To contribute a feature or idea to MijickPopups, create an [issue](https://githu
 
 If you find a bug, please create an [issue](https://github.com/Mijick/Popups/issues/new?assignees=FulcrumOne%2C+jay-jay-lama&labels=state%3A+inactive%2C+type%3A+bug&projects=&template=🦟-bug-report.md&title=%5BBUG%5D).
 
-If you would like to contribute, please refer to the [Contribution Guidelines](https://github.com/Mijick/Popups/blob/main/.github/CONTRIBUTING.md).
+If you would like to contribute, please refer to the [contribution guidelines](https://github.com/Mijick/Popups/blob/main/.github/CONTRIBUTING.md).
 
 <!--Sponsorship-->
 # Sponsor framework
-Bla bla bla
+Support our frameworks by [becoming a backer](https://buymeacoffee.com/mijick).
