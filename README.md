@@ -24,7 +24,7 @@
 
 <!--Labels-->
 <p align="center">
-    <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.png"/>
+    <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.png" height="60px"/>
 </p>
 
 <br>
@@ -63,19 +63,19 @@
 <p>
     <!--Discord-->
     <a href="https://discord.com/invite/dT5V7nm5SC">
-        <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.png">
+        <img alt="Join us on Discord" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/discord.png" height="40px">
     </a>
     <!--GitHub-->
     <a href="https://github.com/Mijick">
-        <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.png">
+        <img alt="See our other frameworks" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/github.png" height="40px">
     </a>
     <!--Medium-->
     <a href="https://medium.com/@mijick">
-        <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.png">
+        <img alt="Read us on Medium" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/medium.png" height="40px">
     </a>
     <!--Buymeacoffee-->
     <a href="https://buymeacoffee.com/mijick">
-        <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.png">
+        <img alt="Buy us a coffee" src="https://github.com/Mijick/Assets/blob/main/Popups/Buttons/buymeacoffee.png" height="40px">
     </a>
 </p>
 
