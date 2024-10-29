@@ -1,7 +1,7 @@
 <!--Hero Image-->
 <p align="center">
     <picture> 
-        <img alt="MijickPopups Hero" src="https://github.com/Mijick/Assets/blob/main/Popups/hero.svg" width="80%">
+        <img alt="MijickPopups Hero" src="https://github.com/Mijick/Assets/blob/main/Popups/hero.png" width="100%">
     </picture>
 </p>
 
