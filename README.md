@@ -24,7 +24,7 @@
 
 <!--Labels-->
 <p align="center">
-    <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.png" style="height:60px; width:auto;"/>
+    <img alt="Labels" src="https://github.com/Mijick/Assets/blob/main/Popups/labels.svg"/>
 </p>
 
 <br>
