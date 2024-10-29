@@ -6,12 +6,10 @@
 </p>
 
 <!--Text Header-->
-<div id="user-content-toc">
-    <ul align="center" style="list-style: none;">
-        <summary><h1>Popups presentation made simple</h1></summary>
-        <p>Create any popup in no time. Keep your code clean.</p>
-    </ul>
-</div>
+<p>
+    <h3 align="center">Popups presentation made simple</h3>
+    <p align="center">Create any popup in no time. Keep your code clean.</p>
+</p>
 
 <!--Links: Demo, Wiki, Roadmap-->
 <p align="center">
